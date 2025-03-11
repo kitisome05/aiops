@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Mi App en Azure", page_icon="🚀")
 
-st.title("🚀 ¡Bienvenido a mi App en Azure con Streamlit!")
+st.title("🚀 ¡Bienvenido a mi App en Azure con STREAMLIT!")
 st.write("Esta es una aplicación de prueba desplegada en Azure App Service usando Terraform.")
 
 st.sidebar.header("Menú")
